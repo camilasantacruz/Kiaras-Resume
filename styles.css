@@ -1,0 +1,20 @@
+body{
+    color:pink;
+    font-family: 'Noticia Text', serif;
+    text-align:center;
+}
+img{
+    width:300px;
+    border-style:dashed;
+   
+}
+h2{
+    color:blue;
+    background-color:yellow;
+}
+ul{
+    color:purple;
+}
+ol{
+    color:purple;
+}
